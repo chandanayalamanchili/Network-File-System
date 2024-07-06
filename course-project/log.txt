@@ -1,0 +1,36 @@
+[127.0.0.1:31501]  - Status: 1
+[127.0.0.1:31501]  - Status: 1
+[127.0.0.1:32269]  - Status: 1
+[127.0.0.1:32269]  - Status: 1
+[127.0.0.1:10249] 1.exe,3.py,subdir1 - Status: 1
+[127.0.0.1:31501]  - Status: 1
+[127.0.0.1:10249] asfdgh - Status: 1
+[127.0.0.1:31501] PUT: Content written success..
+ - Status: 1
+[127.0.0.1:10249] print("hello Deeku"); - Status: 1
+[127.0.0.1:31501] PUT: Content written success..
+ - Status: 1
+[127.0.0.1:10249] 3.py - Status: 1
+[127.0.0.1:31501]  - Status: 1
+[127.0.0.1:10249] print("hello Deeku & Kriti"); - Status: 1
+[127.0.0.1:31501] PUT: Content written success..
+ - Status: 1
+[127.0.0.1:10249] 1.exe,3.py,subdir1 - Status: 1
+[127.0.0.1:32269]  - Status: 1
+[127.0.0.1:10249] asfdgh - Status: 1
+[127.0.0.1:32269] PUT: Content written success..
+ - Status: 1
+[127.0.0.1:10249] print("hello Deeku"); - Status: 1
+[127.0.0.1:32269] PUT: Content written success..
+ - Status: 1
+[127.0.0.1:10249] 3.py - Status: 1
+[127.0.0.1:32269]  - Status: 1
+[127.0.0.1:10249] print("hello Deeku & Kriti"); - Status: 1
+[127.0.0.1:32269] PUT: Content written success..
+ - Status: 1
+[127.0.0.1:47318] READ	dir3/1.exe - Status: 1
+[127.0.0.1:47318] READ	dir3/1.exe - Status: 1
+[127.0.0.1:47318] READ	dir3/1.exe - Status: 1
+[127.0.0.1:47318] WRITE	dir3/1.exe	sghfgm - Status: 1
+[127.0.0.1:47318] READ	dir3/1.exe - Status: 1
+[127.0.0.1:47318] WRITE	dir3/1.exe	fngsdfbc - Status: 1
